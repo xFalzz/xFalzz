@@ -1,4 +1,4 @@
-![logo](https://github.com/xFalzz/xFalzz/blob/main/Banner%20LinkedIn%20copy.jpg)
+![logo](https://github.com/xFalzz/xFalzz/blob/main/Desain%20tanpa%20judul%20(6).png)
 <h3 align="center">Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
