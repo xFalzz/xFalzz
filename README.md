@@ -20,3 +20,11 @@
 <div align="center"> 
  <img width="100%" src="https://raw.githubusercontent.com/alkausarhapis/alkausarhapis/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xfalzz&show_icons=true&locale=en" alt="xfalzz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xfalzz&" alt="xfalzz" /></p>
