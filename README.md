@@ -1,4 +1,5 @@
 <h3 align="center">Frontend Developer</h3>
+![logo](https://github.com/xFalzz/xFalzz/blob/main/Banner%20LinkedIn%20copy.jpg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
