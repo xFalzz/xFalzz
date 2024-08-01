@@ -15,7 +15,7 @@
 </div> </br>
 <h1 align="center">
   Contribution </br> 
-  <sub>Not that much? Well.. it was eaten by a snek <img src="https://cdn.discordapp.com/emojis/979540544550207498" width="25"> </sub>
+  <sub>Not that much? Well.. it was eaten by a snake <img src="https://cdn.discordapp.com/emojis/979540544550207498" width="25"> </sub>
 </h1>
 <div align="center"> 
  <img width="100%" src="https://raw.githubusercontent.com/alkausarhapis/alkausarhapis/output/github-contribution-grid-snake-dark.svg" />
