@@ -1,4 +1,4 @@
-<h2 align="left">Hi 🙋‍♂️! My name is Nawfal Irfan and I'm a Frontend Developer, from Indonesia </h2>
+<h2 align="left">Hi 🙋‍♂️! My name is Nawfal Irfan and I'm a Frontend Developer, from Indonesia <img src= "https://id.emojiguide.com/bendera/flag-indonesia/"></h2>
 
 ###
 
