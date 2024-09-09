@@ -1,5 +1,6 @@
 <h2 align="left">Hi 👋! My name is Nawfal Irfan and I'm a Frontend Developer, from Indonesia </h2>
 
+##
 
 <h3 align="left">Social Media</h3>
 <p align="left">
@@ -9,6 +10,7 @@
 </p>
 
 ###
+
 <h3 align="left">Stack </h3>
 <table style="width:100%">
   <thead>
@@ -60,6 +62,7 @@
   </tbody>
 </table>
 
+##
 
 <h3 align="left">Connect with me</h3>
 <p align="left">
