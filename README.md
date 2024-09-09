@@ -1,5 +1,6 @@
 <h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
-<h4 align="center">Hi 🙋‍♂️! My name is Nawfal Irfan and I'm a Frontend Developer, from Indonesia <img url= "https://id.emojiguide.com/bendera/flag-indonesia/"></h4>
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=xFalzz&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/xFalzz)
 
 ###
 
