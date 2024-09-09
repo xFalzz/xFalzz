@@ -1,5 +1,6 @@
+<h2 align="left">Hi 👋! My name is Nawfal Irfan and I'm a Frontend Developer, from Indonesia </h2>
 
-<h3 align="center">Frontend Developer</h3>
+##
 
 <h3 align="left">Social Media</h3>
 <p align="left">
