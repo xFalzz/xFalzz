@@ -2,15 +2,6 @@
 
 ###
 
-<h3 align="left">Social Media</h3>
-<p align="left">
-<a href="https://linkedin.com/in/nawfal irfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nawfal irfan" height="30" width="40" /></a>
-<a href="https://instagram.com/nawfaljr__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nawfaljr__" height="30" width="40" /></a>
-<a href="https://discord.gg/v6dgnKCpuM" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="v6dgnKCpuM" height="30" width="40" /></a>
-</p>
-
-###
-
 <h3 align="left">Stack </h3>
 <table style="width:100%">
   <thead>
