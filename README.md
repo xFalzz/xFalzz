@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Leveling%2C+and+Leading.%22" alt="Typing SVG" />
+<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6A1E55&random=false&width=435&lines=%22Learning%2C+Leveling%2C+and+Leading.%22" alt="Typing SVG" />
 
 ###
 
