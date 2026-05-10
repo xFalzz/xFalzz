@@ -44,5 +44,3 @@ const profile = {
 <p align="center">
   <img src="https://raw.githubusercontent.com/xFalzz/xFalzz/output/github-contribution-grid-snake-dark.svg" />
 </p>
-
----
