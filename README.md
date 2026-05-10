@@ -1,4 +1,6 @@
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A1CAC&random=false&width=435&lines=%22Learning%2C+Leveling%2C+and+Leading.%22" alt="Typing SVG" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A1CAC&random=false&width=435&lines=%22Learning%2C+Leveling%2C+and+Leading.%22" alt="Typing SVG" />
+</h2>
 
 ###
 
@@ -8,8 +10,7 @@
 
 </div>
 
-<h2 align="center">
-</h2>
+<h2 align="center"></h2>
 
 ```ts
 const profile = {
@@ -31,15 +32,14 @@ const profile = {
 }
 ```
 
-<h3>📈 Contribution Activity</h3>
+<h3 align="center">📈 Contribution Activity</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xFalzz&theme=tokyo-night&hide_border=true&bg_color=0D1117&radius=16" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xFalzz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7A1CAC&line=7A1CAC&point=C77DFF&area=true&area_color=7A1CAC&radius=16" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/xFalzz/xFalzz/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<h2 align="center">
-</h2>
+<h2 align="center"></h2>
