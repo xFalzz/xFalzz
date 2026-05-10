@@ -9,7 +9,11 @@
 </div>
 
 
-<h2 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A1CAC&random=false&width=435&lines=%22About%2C+Roles%2C+and+Focuse.%22" alt="Typing SVG" />
+<h2 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7A1CAC&random=false&width=700&lines=%22About%2C+Roles%2C+Focus%2C+and+Current+Learning.%22" alt="Typing SVG" />
+</h2>
+
+
 
 ```ts
 const profile = {
