@@ -37,9 +37,3 @@ const profile = {
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xFalzz&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=7A1CAC&line=7A1CAC&point=C77DFF&area=true&area_color=7A1CAC&radius=16" width="100%" />
 </p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/xFalzz/xFalzz/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
-<h2 align="center"></h2>
